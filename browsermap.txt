@@ -1,0 +1,2 @@
+#Phrases for opening browser
+open browser
